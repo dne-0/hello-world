@@ -1,2 +1,3 @@
 # hello-world
-first repository, I'm doing the Git intro
+
+I'm editing this README with different stuff because this is another branch.
